@@ -37,8 +37,8 @@ nav ul{
     z-index: 3;
     position: absolute;
     font-size: 3rem;
-    left: 60%;
-    top: 20%;
+    left: 16.5%;
+    top: 14%;
     transform: translate(-50%, -25%);
 
 }
@@ -46,8 +46,17 @@ nav ul{
     color: ghostwhite;
     z-index: 3;
     position: absolute;
+    font-size: 1rem;
+    left: 20%;
+    top: 20%;
+    transform: translate(-50%, -25%);
+}
+.ptext {
+    color: ghostwhite;
+    z-index: 3;
+    position: absolute;
     font-size: 2rem;
-    left: 55%;
-    top: %;
+    left: 20%;
+    top: 20%;
     transform: translate(-50%, -25%);
 }

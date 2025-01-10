@@ -8,7 +8,7 @@ const scene = new THREE.Scene();
 
 // Create the sphere geometry
 const earth = new THREE.SphereGeometry(3, 64, 64);
-const earthtexture = new THREE.TextureLoader().load('./src/earthmap.jpg');
+const earthtexture = new THREE.TextureLoader().load('./src/venus.jpg');
 const earthnormal = new THREE.TextureLoader().load('./src/normal.TIF');
 const earthDisplacement = new THREE.TextureLoader().load('./src/normal.TIF'); // Load displacement map
 
